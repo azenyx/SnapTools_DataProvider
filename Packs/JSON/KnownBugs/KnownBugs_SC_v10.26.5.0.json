@@ -2,15 +2,10 @@
   "3.0.0.0": {
     "bugs": [
       {
-        "category": "General",
+        "category": "Nothing",
         "bugs": [
-          "As you can see this Apk and ModulePack works.",
+          "Not A single Bug",
           "It also offers the comfort of KnownBugs and other Networking things"
-        ]
-      }, {
-        "category": "Stealth",
-        "bugs": [
-          "I think it works except Global Setting"
         ]
       }
     ]
@@ -18,9 +13,10 @@
   "3.0.0.0b": {
     "bugs": [
       {
-        "category": "Stealth",
+        "category": "Nothing",
         "bugs": [
-          "I think it works except Global Setting"
+          "Not A single Bug",
+          "It also offers the comfort of KnownBugs and other Networking things"
         ]
       }
     ]
