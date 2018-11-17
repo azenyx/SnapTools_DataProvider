@@ -1,7 +1,72 @@
-\-<root>RootP
-\--ItemP
-/-<root>RootB
-/--ItemB
-\-<root><center>Root2
-\--<center>ItemRoot2
-\--<center>ItemRoot3
+\-<root>Auto Save
+\--Allows for automatic saving of any received/story/chatmedia/sent Snap
+\--Chat messages will also be automatically saved within Snapchat
+\--Premium is required in order to selectively save which Snaps you want
+\-<root>3 devices
+\--This allows you to be logged into SnapTools on 3 devices at any given time.
+\-- Deprecated since ST has been open sourced and is now free to use
+\--<b><font color=#ee9083>PLEASE NOTE: Account sharing is strictly prohibited, if you are found to be sharing your account with other users, both your devices and your email will be banned from our server, rendering SnapTools useless.</font></b>
+\-<root> Screenshot Detection bypass
+\--Allows you to screenshot/screenrecord anything and the sender will not be notified.
+\-<root>Snap Timer removal
+\--Removes the visual Snap Timer in the top right of received Snaps.
+\--<b><font color=#ee9083>PLEASE NOTE: Stories no longer have Snap Timers in recent versions of Snapchat.</font></b>
+\-<root>Ad Blocker
+\--This will block any adverts from appearing in between Snaps or within the Discover page.
+\-<root>User Story blocking
+\--Allows you to block certain users' stories from appearing in your feed.
+\-<root>LED Light Save status
+\--Allows you to use your device's LED light as a save status indicator for saved snaps.
+\--<b><font color=#ee9083>PLEASE NOTE: This is very hardware/software dependent and may not work on all devices.</font></b>
+\-<root>Block inbount 'X is typing...' notifications
+\--This will stop Snapchat from notifying you when someone is typing.
+\--<b><font color=#ee9083>PLEASE NOTE: Due to the way snapchat works, this will only work while Snapchat is open or running in the background.</font></b>
+\-<root>AMOLED Black SnapTools theme
+\--Allows you to use an AMOLED friendly theme within SnapTools
+\-<root>[FUTURE] Hidden Folder Management
+\--Will allow you to stop Gallery apps from finding your snaps.
+\--As a temporary workaround, please create a file named ".nomedia" in the SnapTools folder.
+
+/--<root><center><b><font color=#ee9083><u>ALL BASIC FEATURES ARE ALSO INCLUDED IN PREMIUM PACKS</u></font></b>
+/-<root>Chat conversation saving within SnapTools
+/--Allows you to log and view all your current chats within SnapTools
+/--You can also export these chat logs in your preferred file format.
+/-<root>Lens Collection and Management
+/--Allows the user to colled and keep their Snapchat lenses (ie the "Dog filter") once Snapchat has made them unavailable.
+/--You are then able to enable and manage which lenses are available within Snapchat by either manually selecting them, or by using lens profiles to quickly select previously selected "batches" of lenses.
+/--<b><font color=#ee9083>PLEASE NOTE: Lenses are not guaranteed to work forever, as our method still requires them to be available on Snapchat's servers.</font></b>
+/-<root>Manual Saving methods
+/--Allows the user to customize how they want their Snaps to be saved.
+/--Button Save - Allows user to customize and use an on-screen button to save the current Snap.
+/--Fling to Save - Allows the user to customize and use a 'Fling' action to save the current Snap.
+/-<root> Customizable Save feedback/status
+/--Allows the user to customize how they want to be notified that the Snap has saved successfully.
+/--Vibration - A toggle for whether the phone should vibrate and can be used alongside other feedbacks.
+/--Dots - [Default]Displays a colored dot indicating the save status.
+/---Green: save successful
+/---Orange: skipped due to already existing
+/---Red: save failed
+/--Stacked Dots - Displays the dor for the current Snap, along with the previous 5 save status dots.
+/--ScreenFlash - Flashs the screen when a Snap is saved.
+/--MediaPreview - Shows a brief preview of the Snap that had been saved, similar to how Snapchat and some Android ROMs handle screenshots
+/--- This preview can be tapped to open the saved Snap in your gallery
+/-<root>Sharing media from gallery
+/--Allows you to upload your own media and send it as a regular Snap, as if it had been taken by Snapchat itself.
+/--<b><font color='#ee9083'>PLEASE NOTE: Success varies by the type of media, if you have any trouble please read the FAQ!</font></b>
+/-<root>Custom Filters within Snapchat
+/--Allows Snapchat to load custom filters, selectable within SnapTools
+/-<root>NowPlaying Filter
+/--An extension to the Custom Filters feature, this allows for a filter that displays what song/track is currently playing, along with its information and album art.
+/-- <b><font color=#ee9083>PLEASE NOTE: Spotify is recommended as it supports our full feature set. Other apps may or may not work properly. Please read the FAQ for more information!</font></b>
+/-<root>Account Manager
+/--Allows you to save and quickly swap/logout of Snapchat accounts without the need for the login/logout process
+/--Saves are local to you and are encrypted by a password for maximum security.
+/-<root>Stealth Viewing
+/--This allows you to view Snaps/Chats/Stories without the sender knowing.
+/--This feature has 2 main modes, "Selective Viewing" or "Selective Hiding"
+/---These modes are toggled in the snapcode page. 
+/---Selective Viewing is indicated by a black ghost,while Selective Hiding is indicated by a white ghost.
+/--In "Selective Viewing", you're hidden by default and can be unhidden by pressing an on-screen button.
+/--In "Selective Hiding", you're unhidden by default and can hide by pressing an on-screen button. 
+/-<root>[FUTURE] Opportunity to save missed Snaps within the SnapTools app
+/--This will allow you to open SnapTools and save any Snaps you may have missed during your latest Snapchat session
