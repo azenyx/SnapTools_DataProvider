@@ -28,7 +28,7 @@
 
 - Using the Sharing feature
 -- How come when I share my picture/video to Snapchat, nothing happens?
---- You must share your file to the SnapTools app. It will then launch a prompt and proceed to open Snapchat. Follow the instructions on the prompt and it will work.
+--- You must share your file to the SnapTools app. It will then launch a prompt and open Snapchat. Follow the instructions on the prompt and it will work.
 
 -- How come when I spoof my picture, it's turned sideways/zoomed in/etc?
 --- At the moment, we are unable to pinpoint the cause of this issue. You can enable the Rotation Bug Fix in the Sharing section in the SnapTools app and it may fix your issue. Some members of the SnapTools Discord server have reported that tapping the flip camera button or toggling the flashlight on the top-right fixes the bug for them, but your mileage may vary.
