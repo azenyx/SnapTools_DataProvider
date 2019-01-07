@@ -1,0 +1,22 @@
+{
+  "2.0.0.0": {
+    "bugs": [
+      {
+        "category": "Nothing",
+        "bugs": [
+          "Not A single Bug"
+        ]
+      }
+    ]
+  },
+  "2.0.0.0b": {
+    "bugs": [
+      {
+        "category": "Nothing",
+        "bugs": [
+          "Not A single Bug"
+        ]
+      }
+    ]
+  }
+}

@@ -44,6 +44,26 @@
       "development": false,
       "latest": true,
       "flavour": "beta"
+    }, {
+      "description": "A ModulePack for 10.20.5.0",
+      "is_purchased": true,
+      "name": "STModulePack_2.0.0.0_Premium_10.20.5.0",
+      "pack_type": "Premium",
+      "sc_version": "10.20.5.0",
+      "mod_version": "2.0.0.0",
+      "development": false,
+      "latest": true,
+      "flavour": "prod"
+    }, {
+      "description": "A ModulePack for 10.20.5.0",
+      "is_purchased": true,
+      "name": "STModulePackBeta_2.0.0.0b_Premium_10.20.5.0",
+      "pack_type": "Premium",
+      "sc_version": "10.20.5.0",
+      "mod_version": "2.0.0.0b",
+      "development": false,
+      "latest": true,
+      "flavour": "beta"
     }
   ]
 }
