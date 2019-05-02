@@ -20,5 +20,15 @@
         ]
       }
     ]
+  },
+  "3.0.0.1b": {
+    "bugs": [
+      {
+        "category": "Nothing",
+        "bugs": [
+          "Or is there?"
+        ]
+      }
+    ]
   }
 }

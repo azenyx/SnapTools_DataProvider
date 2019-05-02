@@ -9,10 +9,10 @@
   },
   "beta": {
     "development": false,
-    "mod_version": "3.0.0.0b",
+    "mod_version": "3.0.0.1b",
     "sc_version": "10.26.5.0",
     "pack_type": "Premium",
-    "changelog": " - Fixed Image Rotation (Manual Activation required)",
+    "changelog": " - Added Option to Force MultiSnap Recording in Misc Changes",
     "flavour": "beta"
   }
 }
