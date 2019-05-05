@@ -1,7 +1,7 @@
 {
   "latestVersion": "2.0.0.10b",
   "latestVersionCode": 110,
-  "url": "https://github.com/jaqxues/SnapToolsAdditionals/blob/master/SnapTools-Beta.apk",
+  "url": "https://github.com/jaqxues/SnapTools_DataProvider/blob/master/SnapTools-Beta.apk",
   "releaseNotes": [
     " - Fixed Annoying Pie Pack Loading Error",
     "--> No double Packs anymore. Disable one of the packs"
