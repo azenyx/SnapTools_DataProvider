@@ -1,12 +1,9 @@
 {
-  "latestVersion": "2.0.0.9b",
-  "latestVersionCode": 109,
+  "latestVersion": "2.0.0.10b",
+  "latestVersionCode": 110,
   "url": "https://github.com/jaqxues/SnapToolsAdditionals/blob/master/SnapTools-Beta.apk",
   "releaseNotes": [
-    " - Pushing Anti Hang for real",
-    " - Hopefully fixed Pack Updates",
-    " - New App Repackaging",
-    " - Pie Warn",
-    " - No Root Initialization"
+    " - Fixed Annoying Pie Pack Loading Error",
+    "--> No double Packs anymore. Disable one of the packs"
   ]
 }
