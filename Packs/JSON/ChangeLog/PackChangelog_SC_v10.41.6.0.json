@@ -9,10 +9,10 @@
   },
   "beta": {
     "development": false,
-    "mod_version": "1.0.1.2b",
+    "mod_version": "1.0.1.4b",
     "sc_version": "10.41.6.0",
     "pack_type": "Premium",
-    "changelog": " - Fixed Loading Stories in Snapchat\n - Fixed Stealth",
+    "changelog": " - Updated for Pie Users",
     "flavour": "beta"
   }
 }

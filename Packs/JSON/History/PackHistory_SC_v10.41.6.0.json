@@ -30,6 +30,12 @@
         "pack_type": "Premium",
         "development": false,
         "flavour": "beta"
+      }, {
+        "sc_version": "10.41.6.0",
+        "mod_version": "1.0.1.4b",
+        "pack_type": "Premium",
+        "development": false,
+        "flavour": "beta"
       }
     ]
   }

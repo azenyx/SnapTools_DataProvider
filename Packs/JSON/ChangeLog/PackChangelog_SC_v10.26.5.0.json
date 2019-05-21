@@ -9,10 +9,10 @@
   },
   "beta": {
     "development": false,
-    "mod_version": "3.0.0.1b",
+    "mod_version": "3.0.0.2b",
     "sc_version": "10.26.5.0",
     "pack_type": "Premium",
-    "changelog": " - Added Option to Force MultiSnap Recording in Misc Changes",
+    "changelog": " - Updated for Pie Users",
     "flavour": "beta"
   }
 }
