@@ -7,6 +7,13 @@
         "pack_type": "Premium",
         "development": false,
         "flavour": "prod"
+      },
+      {
+        "sc_version": "10.26.5.0",
+        "mod_version": "3.0.0.2",
+        "pack_type": "Premium",
+        "development": false,
+        "flavour": "prod"
       }
     ]
   },
@@ -18,13 +25,15 @@
         "pack_type": "Premium",
         "development": false,
         "flavour": "beta"
-      }, {
+      },
+      {
         "sc_version": "10.26.5.0",
         "mod_version": "3.0.0.1b",
         "pack_type": "Premium",
         "development": false,
         "flavour": "beta"
-      }, {
+      },
+      {
         "sc_version": "10.26.5.0",
         "mod_version": "3.0.0.2b",
         "pack_type": "Premium",

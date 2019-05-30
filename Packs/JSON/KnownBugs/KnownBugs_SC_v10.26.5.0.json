@@ -30,5 +30,21 @@
         ]
       }
     ]
+  },
+  "3.0.0.2": {
+    "bugs": [
+      {
+        "category": "Nothing",
+        "bugs": [
+          "Or is there?"
+        ]
+      },
+      {
+        "category": "Important",
+        "bugs": [
+          "If you experience any issues, never hesitate to tell me about it. Discord is your friend"
+        ]
+      }
+    ]
   }
 }

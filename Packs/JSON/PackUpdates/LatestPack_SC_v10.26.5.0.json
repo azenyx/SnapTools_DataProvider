@@ -5,10 +5,10 @@
     "auth_description": "-",
     "ban_reason": "-",
     "development": false,
-    "mod_version": "3.0.0.0",
+    "mod_version": "3.0.0.2",
     "sc_version": "10.26.5.0",
     "pack_type": "Premium",
-    "changelog": " - Keeping up with the Anti Hang Framework\n - Fixed Image Rotation (Manual Activation required)",
+    "changelog": " - Updated for Pie Users",
     "flavour": "prod"
   },
   "beta": {

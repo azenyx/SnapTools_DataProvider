@@ -1,12 +1,8 @@
 {
-  "latestVersion": "2.0.0.8",
-  "latestVersionCode": 108,
+  "latestVersion": "2.0.1.0",
+  "latestVersionCode": 111,
   "url": "https://github.com/jaqxues/SnapTools_DataProvider/blob/master/Apks/Files/SnapTools-Release.apk?raw=true",
   "releaseNotes": [
-    " - Pushing Anti Hang for real",
-    " - Hopefully fixed Pack Updates",
-    " - New App Repackaging",
-    " - Pie Warn",
-    " - No Root Initialization"
+    "SnapTools compatibility with Android 9"
   ]
 }
