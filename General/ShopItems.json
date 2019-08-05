@@ -10,13 +10,85 @@
       "price": 999.99,
       "description": "Purchasing packs is no longer needed",
       "purchased": false,
-      "rocketr_link": "https://rocketr.net/buy/66807b650173"
+      "rocketr_link": "https://www.paypal.me/jaqxues/999EUR"
+    },
+    {
+      "identifier": "Level 1",
+      "type": "donation",
+      "price": 1,
+      "description": "Using SnapTools because the UI looks good",
+      "rocketr_link": "https://www.paypal.me/jaqxues/1EUR",
+      "purchased": false
+    },
+    {
+      "identifier": "Level 2",
+      "type": "donation",
+      "price": 2,
+      "description": "Using SnapTools because Snapchat is useless without it",
+      "rocketr_link": "https://www.paypal.me/jaqxues/2EUR",
+      "purchased": false
+    },
+    {
+      "identifier": "Level 3",
+      "type": "donation",
+      "price": 5,
+      "description": "Using SnapTools since the start of development",
+      "rocketr_link": "https://www.paypal.me/jaqxues/5EUR",
+      "purchased": false
+    },
+    {
+      "identifier": "Level 4",
+      "type": "donation",
+      "price": 7.50,
+      "description": "Using SnapTools because you do not know how to uninstall it",
+      "rocketr_link": "https://www.paypal.me/jaqxues/7.50EUR",
+      "purchased": false
+    },
+    {
+      "identifier": "Level 5",
+      "type": "donation",
+      "price": 10,
+      "description": "Using SnapTools to donate",
+      "rocketr_link": "https://www.paypal.me/jaqxues/10EUR",
+      "purchased": false
+    },
+    {
+      "identifier": "Crazy SnapTools Fan",
+      "type": "donation",
+      "price": 25,
+      "description": "Do you really want to spend this much? I'll take it:)",
+      "rocketr_link": "https://www.paypal.me/jaqxues/25EUR",
+      "purchased": false
+    },
+    {
+      "identifier": "Crazy jaqxues fan",
+      "type": "donation",
+      "price": 30,
+      "description": "Should I run?",
+      "rocketr_link": "https://www.paypal.me/jaqxues/30EUR",
+      "purchased": false
+    },
+    {
+      "identifier": "Danger Zone",
+      "type": "donation",
+      "price": 50,
+      "description": "Think twice before donating this much. Appreciated though:)",
+      "rocketr_link": "https://www.paypal.me/jaqxues/50EUR",
+      "purchased": false
+    },
+    {
+      "identifier": "Danger Zone",
+      "type": "donation",
+      "price": 100,
+      "description": "Think twice before donating this much. Appreciated though:)",
+      "rocketr_link": "https://www.paypal.me/jaqxues/100EUR",
+      "purchased": false
     },
     {
       "identifier": "Candy (Andre)",
       "type": "donation",
       "price": 1,
-      "description": "Gives me something to eat while working",
+      "description": "(Andre, creator of SnapTools, abandoned the Project) Gives me something to eat while working",
       "rocketr_link": "https://rocketr.net/buy/643c81d5ba00",
       "purchased": false
     },
@@ -24,7 +96,7 @@
       "identifier": "Bus Pass (Andre)",
       "type": "donation",
       "price": 2,
-      "description": "Gotta get around the UK somehow",
+      "description": "(Andre, creator of SnapTools, abandoned the Project) Gotta get around the UK somehow",
       "rocketr_link": "https://rocketr.net/buy/38cd6bd1d4a7",
       "purchased": false
     },
@@ -32,7 +104,7 @@
       "identifier": "Fish & Chips (Andre)",
       "type": "donation",
       "price": 5,
-      "description": "Need some food to go with the Jack Daniels",
+      "description": "(Andre, creator of SnapTools, abandoned the Project) Need some food to go with the Jack Daniels",
       "rocketr_link": "https://rocketr.net/buy/27a01a184c93",
       "purchased": false
     },
@@ -40,7 +112,7 @@
       "identifier": "Medicine (Andre)",
       "type": "donation",
       "price": 7.50,
-      "description": "To help with my countless hangovers",
+      "description": "(Andre, creator of SnapTools, abandoned the Project) To help with my countless hangovers",
       "rocketr_link": "https://rocketr.net/buy/30df2002f18c",
       "purchased": false
     },
@@ -48,7 +120,7 @@
       "identifier": "Server (Andre)",
       "type": "donation",
       "price": 10,
-      "description": "SnapTools needs to go somewhere, you know (Not anymore, but...)",
+      "description": "(Andre, creator of SnapTools, abandoned the Project) SnapTools needs to go somewhere, you know (Not anymore, but...)",
       "rocketr_link": "https://rocketr.net/buy/a621497ae114",
       "purchased": false
     },
@@ -56,7 +128,7 @@
       "identifier": "Proper Meal (Andre)",
       "type": "donation",
       "price": 25,
-      "description": "Help me eat properly for once",
+      "description": "(Andre, creator of SnapTools, abandoned the Project) Help me eat properly for once",
       "rocketr_link": "https://rocketr.net/buy/498c745aa76c",
       "purchased": false
     },
@@ -64,7 +136,7 @@
       "identifier": "Jack Daniels (Andre)",
       "type": "donation",
       "price": 30,
-      "description": "I'm an alcoholic, you can help support my addiction by purchasing one of these for me",
+      "description": "(Andre, creator of SnapTools, abandoned the Project) I'm an alcoholic, you can help support my addiction by purchasing one of these for me",
       "rocketr_link": "https://rocketr.net/buy/51ec69d480c9",
       "purchased": false
     },
@@ -72,7 +144,7 @@
       "identifier": "Dinner for Two (Andre)",
       "type": "donation",
       "price": 50,
-      "description": "In case I ever date someone... Unlikely",
+      "description": "(Andre, creator of SnapTools, abandoned the Project) In case I ever date someone... Unlikely",
       "rocketr_link": "https://rocketr.net/buy/f81dd7be2ca1",
       "purchased": false
     },
@@ -80,7 +152,7 @@
       "identifier": "Student Debt (Andre)",
       "type": "donation",
       "price": 100,
-      "description": "I'm a broke Uni student, help me pay off my debts",
+      "description": "(Andre, creator of SnapTools, abandoned the Project) I'm a broke Uni student, help me pay off my debts",
       "rocketr_link": "https://rocketr.net/buy/66807b650173",
       "purchased": false
     }
