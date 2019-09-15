@@ -11,19 +11,19 @@
   "about_us_concept": "SnapTools was initially started in early 2017 as a way to provide Snapchat modifications, such as saving, with a new cloud based way of delivering fast updates. What we had in mind was a fully modular system that would allow all our code that interfaces with Snapchat to be downloaded in the form of \"packs\" from our server and stored and executed within SnapTools itself, allowing for multiple Snapchat versions to be supported, and for code updates to not require a new APK or a device restart.\n\nAs our knowledge of the inner workings of Snapchat grew, so did our project. We had established an incredibly capable framework and started adding features that many users requested, such as lens collection and management, screenshot bypass, and sharing from gallery, along with many others. We made our Slack page open to the public in August as we prepared for a pre-release, to attract attention and bring users to our community that could help with testing our product before our official release.\n\nNow it is open source. What a day",
   "about_us_description": "SnapTools started with Andre (andrerm124) as the sole developer, with Pedro (pedroc1999) and Gabe (quorn23) as part of the decision making team. Ethan (electronicwizard) also joined as a developer/tester and Michal (nightmean) helped while testing SnapTools and during the bug finding process. The majority of our team are currently in or recently graduated from higher level education.",
 
-  "support_discord_text": "For the fastest response to your questions, please join our Discord server where there is usually 24/7 support.\nOnce joined check out the <b><font color='#efde86'><u>FAQ</u></font></b> channel to check if your question has already been answered. Otherwise try out the <b><font color='#efde86'><u>@Support</u></font></b> tag to notify the support team of your question.\n\nSpecial thanks to the Support team (TupaC, Liz, Freekystar, jaqxues, Erik, Zack4200, Badgermole, Kevin T, Fullonrager, Dubyadud and Asbestos) for helping out with testing and their community assistance",
-  "support_discord_link": "https://discordapp.com/invite/T29v543",
+  "support_discord_text": "For the fastest response to your questions, please join our Discord server where there is usually 24/7 support.\ Check out the <b><font color='#efde86'><u>FAQ</u></font></b> channel to check if your question has already been answered. Otherwise try out the <b><font color='#efde86'><u>@Support</u></font></b> tag to notify the support team of your question.\n\nSpecial thanks to the Support team (Tuba, Liz, jaqxues, Erik, Zack4200, Badgermole, Kevin T, fullonrager, Chris, and Weiss) for helping out with testing and their community assistance.",
+  "support_discord_link": "https://discord.gg/QungHrc",
 
-  "support_website_text": "The Website has been taken down, but here is my personal Website that contains anything related to my work on SnapTools",
+  "support_website_text": "The SnapTools website has been taken down, but here is my personal website that contains anything related to my work on SnapTools",
   "support_website_link": "https://jaqxues.github.io/",
 
-  "support_reddit_text": "We also have a Sub-Reddit that is under construction but is still completely usable if you want to post anything relating to SnapTools. Subscribing to us can help to build our community to let new users know that we're a trusted application.\nThe Reddit will contain announcements and an up to date FAQ list.",
+  "support_reddit_text": "We have a subreddit if you want to post or download anything relating to SnapTools. Subscribing to us can help to build our community to let new users know that we're a trusted application.\nThe Reddit will contain announcements and an up to date FAQ list.",
   "support_reddit_link": "https://www.reddit.com/r/SnapTools/",
 
   "support_xda_text": "Our XDA page hasn't been created yet. We're currently waiting for a full public release before we create the page.\n(Maybe at some point just to advertise for Andre's ModulePack System)\n\nThis is a Placeholder, so here you have a Discord Link!",
-  "support_xda_link": "https://discordapp.com/invite/T29v543",
+  "support_xda_link": "https://discord.gg/QungHrc",
 
-  "support_twitter_text": "(No longer maintained)",
+  "support_twitter_text": "Check out our Twitter page where we provide support and announce new updates or packs for SnapTools.",
   "support_twitter_link": "https://twitter.com/SnapTools_App",
 
   "translation_files": "English, French, German, Polski, TestLanguage",
