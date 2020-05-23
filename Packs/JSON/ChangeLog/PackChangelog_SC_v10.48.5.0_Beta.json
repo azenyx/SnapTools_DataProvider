@@ -4,7 +4,7 @@
     "mod_version": "1.0.8.69",
     "sc_version": "10.48.5.0_Beta",
     "pack_type": "Premium",
-    "changelog": " - Updated for Pie Users",
+    "changelog": " - Added support for Pack Downloader!",
     "flavour": "prod"
   },
   "beta": {
@@ -12,7 +12,7 @@
     "mod_version": "1.0.8.69b",
     "sc_version": "10.48.5.0_Beta",
     "pack_type": "Premium",
-    "changelog": " - Updated for Pie Users",
+    "changelog": " - Added support for Pack Downloader!",
     "flavour": "beta"
   }
 }

@@ -2,17 +2,9 @@
   "1.0.8.69": {
     "bugs": [
       {
-        "category": "Custom Filters",
+        "category": "Chat Stealth",
         "bugs": [
-          " - Custom Filters not functional"
-        ]
-      },
-      {
-        "category": "Modifying Friends",
-        "bugs": [
-          "Snapchat now blocks adding / removing / renaming friends for suspicious users that apparently use Mods / Plugins etc",
-          "The Master Switch in SnapTools Settings can work on Pie or on Oreo. It temporarily disables SnapTools completely, no reboot required.",
-          "If this does not solve your problem, you need to uninstall SnapTools and maybe even Xposed."
+          " - Client Stealth in chat doesn't work, serverside does. Chat Stealth DOES work despite this"
         ]
       },
       {
@@ -26,17 +18,9 @@
   "1.0.8.69b": {
     "bugs": [
       {
-        "category": "Custom Filters",
+        "category": "Chat Stealth",
         "bugs": [
-          " - Custom Filters not functional"
-        ]
-      },
-      {
-        "category": "Modifying Friends",
-        "bugs": [
-          "Snapchat now blocks adding / removing / renaming friends for suspicious users that apparently use Mods / Plugins etc",
-          "The Master Switch in SnapTools Settings can work on Pie or on Oreo. It temporarily disables SnapTools completely, no reboot required.",
-          "If this does not solve your problem, you need to uninstall SnapTools and maybe even Xposed."
+          " - Client Stealth in chat doesn't work, serverside does. Chat Stealth DOES work despite this"
         ]
       },
       {
