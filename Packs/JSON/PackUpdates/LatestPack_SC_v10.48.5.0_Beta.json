@@ -5,10 +5,10 @@
     "auth_description": "-",
     "ban_reason": "-",
     "development": false,
-    "mod_version": "1.0.8.69",
+    "mod_version": "1.0.9.69",
     "sc_version": "10.48.5.0_Beta",
     "pack_type": "Premium",
-    "changelog": " - Added support for Pack Downloader!",
+    "changelog": " - Added Known Bugs back!",
     "flavour": "prod"
   },
   "beta": {
@@ -17,10 +17,10 @@
     "auth_description": "-",
     "ban_reason": "-",
     "development": false,
-    "mod_version": "1.0.8.69b",
+    "mod_version": "1.0.9.69b",
     "sc_version": "10.48.5.0_Beta",
     "pack_type": "Premium",
-    "changelog": " - Added support for Pack Downloader!",
+    "changelog": " - Added Known Bugs back!",
     "flavour": "beta"
   }
 }

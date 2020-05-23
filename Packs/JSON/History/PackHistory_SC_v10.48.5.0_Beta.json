@@ -3,7 +3,7 @@
     "packs": [
       {
         "sc_version": "10.48.5.0_Beta",
-        "mod_version": "1.0.8.69",
+        "mod_version": "1.0.89.69",
         "pack_type": "Premium",
         "development": false,
         "flavour": "prod"
@@ -14,7 +14,7 @@
     "packs": [
       {
         "sc_version": "10.48.5.0_ Beta",
-        "mod_version": "1.0.8.69b",
+        "mod_version": "1.0.9.69b",
         "pack_type": "Premium",
         "development": false,
         "flavour": "beta"
