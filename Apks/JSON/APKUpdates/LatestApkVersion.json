@@ -1,8 +1,10 @@
 {
-  "latestVersion": "2.0.1.0",
+  "latestVersion": "2.0.5.69",
   "latestVersionCode": 111,
-  "url": "https://github.com/jaqxues/SnapTools_DataProvider/blob/master/Apks/Files/SnapTools-Release.apk?raw=true",
+  "url": "https://github.com/haydhook/SnapTools_DataProvider/blob/master/Apks/Files/SnapTools-Release.apk?raw=true",
   "releaseNotes": [
-    "SnapTools compatibility with Android 9"
+    "Added Pack Manager Support! Find the most updated pack in the PACK DOWNLOADER tab!",
+    "Added and Fixed Known Bugs!",
+    "Added a ban warning for <=  Android 8
   ]
 }
