@@ -4,6 +4,17 @@
   "auth_description": "-",
   "ban_reason": "-",
   "packs": [
+  	{
+      "description": "A ModulePack for 10.48.5.0 Beta",
+      "is_purchased": true,
+      "name": "STModulePack_1.0.8.69_Premium_10.48.5.0_Beta.jar",
+      "pack_type": "Premium",
+      "sc_version": "10.48.5.0",
+      "mod_version": "1.0.8.69",
+      "development": false,
+      "latest": true,
+      "flavour": "prod"
+    },
     {
       "description": "A ModulePack for 10.41.6.0",
       "is_purchased": true,

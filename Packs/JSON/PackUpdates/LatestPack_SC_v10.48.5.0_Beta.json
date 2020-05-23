@@ -1,0 +1,26 @@
+{
+  "prod": {
+    "auth_status": true,
+    "banned": false,
+    "auth_description": "-",
+    "ban_reason": "-",
+    "development": false,
+    "mod_version": "1.0.8.69",
+    "sc_version": "10.48.5.0 Beta",
+    "pack_type": "Premium",
+    "changelog": " - Updated for Pie Users",
+    "flavour": "prod"
+  },
+  "beta": {
+    "auth_status": true,
+    "banned": false,
+    "auth_description": "-",
+    "ban_reason": "-",
+    "development": false,
+    "mod_version": "1.0.8.69b",
+    "sc_version": "10.48.5.0 Beta",
+    "pack_type": "Premium",
+    "changelog": " - Updated for Pie Users",
+    "flavour": "beta"
+  }
+}
