@@ -1,10 +1,8 @@
 {
-  "latestVersion": "2.0.5.69",
-  "latestVersionCode": 112,
+  "latestVersion": "2.0.6.69",
+  "latestVersionCode": 113,
   "url": "https://github.com/haydhook/SnapTools_DataProvider/blob/master/Apks/Files/SnapTools-Release.apk?raw=true",
   "releaseNotes": [
-    "Added Pack Manager Support! Find the most updated pack in the PACK DOWNLOADER tab!",
-    "Added and Fixed Known Bugs!",
-    "Added a ban warning for <=  Android 8
+    "Prevented bans on Android 8 and below",
   ]
 }
