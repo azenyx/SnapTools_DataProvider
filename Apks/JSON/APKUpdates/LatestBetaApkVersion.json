@@ -1,6 +1,6 @@
 {
-  "latestVersion": "2.0.1.0b",
-  "latestVersionCode": 111,
+  "latestVersion": "2.0.7.0",
+  "latestVersionCode": 115,
   "url": "https://github.com/jaqxues/SnapTools_DataProvider/raw/master/Apks/Files/SnapTools-Beta.apk",
   "releaseNotes": [
     " - Fixed Crashes on Pie if Xposed disabled (still no idea why)"
