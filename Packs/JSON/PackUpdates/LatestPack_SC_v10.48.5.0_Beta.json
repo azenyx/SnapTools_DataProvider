@@ -5,10 +5,10 @@
     "auth_description": "-",
     "ban_reason": "-",
     "development": false,
-    "mod_version": "1.0.9.69",
+    "mod_version": "1.1.0.0",
     "sc_version": "10.48.5.0_Beta",
     "pack_type": "Premium",
-    "changelog": " - Added Known Bugs back!",
+    "changelog": " - Fixed client side Chat Stealth!",
     "flavour": "prod"
   },
   "beta": {
@@ -17,10 +17,10 @@
     "auth_description": "-",
     "ban_reason": "-",
     "development": false,
-    "mod_version": "1.0.9.69b",
+    "mod_version": "1.1.0.0b",
     "sc_version": "10.48.5.0_Beta",
     "pack_type": "Premium",
-    "changelog": " - Added Known Bugs back!",
+    "changelog": " - Fixed client side Chat Stealth!",
     "flavour": "beta"
   }
 }

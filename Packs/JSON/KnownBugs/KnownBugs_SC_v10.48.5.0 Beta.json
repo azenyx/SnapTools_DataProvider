@@ -1,4 +1,24 @@
 {
+  "1.1.0.0": {
+    "bugs": [
+      {
+        "category": "Important",
+        "bugs": [
+          "If you experience any issues, never hesitate to tell me about it. Discord is your friend"
+        ]
+      }
+    ]
+  },
+  "1.1.0.0b": {
+    "bugs": [
+      {
+        "category": "Important",
+        "bugs": [
+          "If you experience any issues, never hesitate to tell me about it. Discord is your friend"
+        ]
+      }
+    ]
+  },
   "1.0.9.69": {
     "bugs": [
       {
@@ -17,12 +37,6 @@
   },
   "1.0.9.69b": {
     "bugs": [
-      {
-        "category": "Chat Stealth",
-        "bugs": [
-          " - Client Stealth in chat doesn't work, serverside does. Chat Stealth DOES work despite this"
-        ]
-      },
       {
         "category": "Important",
         "bugs": [
