@@ -4,17 +4,6 @@
   "auth_description": "-",
   "ban_reason": "-",
   "packs": [
-      {
-      "description": "A ModulePack for 10.48.5.0 Beta",
-      "is_purchased": true,
-      "name": "STModulePack_1.1.0.0_Premium_10.48.5.0_Beta",
-      "pack_type": "Premium",
-      "sc_version": "10.48.5.0_Beta",
-      "mod_version": "1.1.0.0",
-      "development": false,
-      "latest": true,
-      "flavour": "prod"
-    },
   	{
       "description": "A ModulePack for 10.48.5.0 Beta",
       "is_purchased": true,
@@ -24,6 +13,17 @@
       "mod_version": "1.0.9.69",
       "development": false,
       "latest": false,
+      "flavour": "prod"
+    },  
+    {
+      "description": "A ModulePack for 10.48.5.0 Beta",
+      "is_purchased": true,
+      "name": "STModulePack_1.1.0.0_Premium_10.48.5.0_Beta",
+      "pack_type": "Premium",
+      "sc_version": "10.48.5.0_Beta",
+      "mod_version": "1.1.0.0",
+      "development": false,
+      "latest": true,
       "flavour": "prod"
     }
   ]
