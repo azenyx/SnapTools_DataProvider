@@ -2,7 +2,7 @@
   "prod": {
     "development": false,
     "mod_version": "1.1.0.0",
-    "sc_version": "10.48.5.0 Beta",
+    "sc_version": "10.48.5.0_Beta",
     "pack_type": "Premium",
     "changelog": " - Fix client side Chat Stealth Viewing!",
     "flavour": "prod"
@@ -10,7 +10,7 @@
   "beta": {
     "development": false,
     "mod_version": "1.1.0.0b",
-    "sc_version": "10.48.5.0 Beta",
+    "sc_version": "10.48.5.0_Beta",
     "pack_type": "Premium",
     "changelog": " - Fix client side Chat Stealth Viewing!",
     "flavour": "beta"

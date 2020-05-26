@@ -2,14 +2,14 @@
   "prod": {
     "packs": [
       {
-        "sc_version": "10.48.5.0 Beta",
+        "sc_version": "10.48.5.0_Beta",
         "mod_version": "1.1.0.0",
         "pack_type": "Premium",
         "development": false,
         "flavour": "prod"
       },
       {
-        "sc_version": "10.48.5.0 Beta",
+        "sc_version": "10.48.5.0_Beta",
         "mod_version": "1.0.9.69",
         "pack_type": "Premium",
         "development": false,
@@ -20,14 +20,14 @@
   "beta": {
     "packs": [
       {
-        "sc_version": "10.48.5.0 Beta",
+        "sc_version": "10.48.5.0_Beta",
         "mod_version": "1.1.0.0b",
         "pack_type": "Premium",
         "development": false,
         "flavour": "beta"
       },
       {
-        "sc_version": "10.48.5.0 Beta",
+        "sc_version": "10.48.5.0_ Beta",
         "mod_version": "1.0.9.69b",
         "pack_type": "Premium",
         "development": false,
