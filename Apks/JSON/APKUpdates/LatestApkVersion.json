@@ -1,6 +1,6 @@
 {
 "latestVersion": "2.0.8.69",
-"latestVersionCode": 121,
+"latestVersionCode": 125,
 "url": "https://github.com/haydhook/SnapTools_DataProvider/blob/master/Apks/Files/SnapTools-Release.apk?raw=true",
 "releaseNotes": ["- Fixed Pack Updater (You will now be notified in app when a pack is updated)!"]
 }
