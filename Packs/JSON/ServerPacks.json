@@ -5,12 +5,12 @@
   "ban_reason": "-",
   "packs": [ 
     {
-      "description": "A ModulePack for 10.48.5.0 Beta",
+      "description": "A Module Pack for 10.48.5.0 Beta",
       "is_purchased": true,
-      "name": "STModulePack_1.1.0.0_Premium_10.48.5.0_Beta",
+      "name": "STModulePack_1.3.0.69_Premium_10.48.5.0_Beta",
       "pack_type": "Premium",
       "sc_version": "10.48.5.0_Beta",
-      "mod_version": "1.1.0.0",
+      "mod_version": "1.3.0.69",
       "development": false,
       "latest": true,
       "flavour": "prod"
