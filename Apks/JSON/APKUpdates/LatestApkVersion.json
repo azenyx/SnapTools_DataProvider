@@ -1,8 +1,7 @@
 {
-"latestVersion": "'2.0.9.70'",
-"latestVersionCode": 127,
+"latestVersion": "'2.1.0.69'",
+"latestVersionCode": 128,
 "url": "https://github.com/haydhook/SnapTools_DataProvider/blob/master/Apks/Files/SnapTools-Release.apk?raw=true",
-"releaseNotes": ["- Fixed update loop!",
-				 "- Fully migrated to Android X!",
-				 "- Minimum SDK Version is now 28!"]
+"releaseNotes": ["- Fixed image rotation!",
+				 "- Fixed pack update notification!"]
 }
