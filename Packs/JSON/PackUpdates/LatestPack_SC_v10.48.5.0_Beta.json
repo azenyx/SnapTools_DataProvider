@@ -5,10 +5,10 @@
     "auth_description": "-",
     "ban_reason": "-",
     "development": false,
-    "mod_version": "1.3.0.69",
+    "mod_version": "1.3.1.0",
     "sc_version": "10.48.5.0_Beta",
     "pack_type": "Premium",
-    "changelog": " - Migration to AndroidX!\n- Removed Redundant Code!\n- Added Support for Newer APK!",
+    "changelog": "- Added 'Force Disable Alpha' toggle\n- Lots of bug fixes!",
     "flavour": "prod"
   },
   "beta": {

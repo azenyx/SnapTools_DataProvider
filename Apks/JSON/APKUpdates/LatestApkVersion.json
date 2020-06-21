@@ -1,7 +1,6 @@
 {
-"latestVersion": "'2.1.0.69'",
-"latestVersionCode": 128,
+"latestVersion": "'2.2.0.0'",
+"latestVersionCode": 140,
 "url": "https://github.com/haydhook/SnapTools_DataProvider/blob/master/Apks/Files/SnapTools-Release.apk?raw=true",
-"releaseNotes": ["- Fixed image rotation!",
-				 "- Fixed pack update notification!"]
+"releaseNotes": ["- Fixed Shared Video Compression!"]
 }
