@@ -1,0 +1,18 @@
+{
+  "prod": {
+    "development": false,
+    "mod_version": "1.1.0.0",
+    "sc_version": "10.52.0.0_Beta",
+    "pack_type": "Premium",
+    "changelog": "- Added 'Force Disable Alpha' toggle\n- Added Test Fix for Android 11 Version\n    - If this does not work, use older version",
+    "flavour": "prod"
+  },
+  "beta": {
+    "development": false,
+    "mod_version": "1.1.0.0b",
+    "sc_version": "10.52.0.0_Beta",
+    "pack_type": "Premium",
+    "changelog": "- Migration to AndroidX!\n- Removed Redundant Code!\n- Added Support for Newer APK",
+    "flavour": "beta"
+  }
+}
