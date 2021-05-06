@@ -4,8 +4,7 @@
     "mod_version": "1.1.0.0",
     "sc_version": "10.52.0.0_Beta",
     "pack_type": "Premium",
-    "changelog": "- Fix Video Saving on A11 (Credit to NotK#3576) 
-",
+    "changelog": "- Fix Video Saving on A11 (Credit to NotK#3576)",
     "flavour": "prod"
   },
   "beta": {
