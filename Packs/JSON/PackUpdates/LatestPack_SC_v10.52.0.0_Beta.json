@@ -8,7 +8,7 @@
     "mod_version": "1.1.0.0",
     "sc_version": "10.52.0.0_Beta",
     "pack_type": "Premium",
-    "changelog": "- Test fix for Android 11 Saving",
+    "changelog": "- Fix A11 Video Saving (Credits to NotK#3576)",
     "flavour": "prod"
   },
   "beta": {
