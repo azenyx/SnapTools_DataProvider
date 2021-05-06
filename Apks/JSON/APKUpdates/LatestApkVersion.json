@@ -1,6 +1,6 @@
 {
-"latestVersion": "'2.2.0.3'",
-"latestVersionCode": 180,
-"url": "https://github.com/azenyx/SnapTools_DataProvider/blob/master/Apks/Files/SnapTools-Release.apk?raw=true",
-"releaseNotes": ["- Unified 10.52.0.0 Beta & 10.48.5.0 Beta\n- Fixed all links"]
+"latestVersion": "'2.2.0.2'",
+"latestVersionCode": 142,
+"url": "https://github.com/haydhook/SnapTools_DataProvider/blob/master/Apks/Files/SnapTools-Release.apk?raw=true",
+"releaseNotes": ["- Fixed Features volley error\n- Fixed volley error on pack update"]
 }
