@@ -14,7 +14,7 @@
       "development": false,
       "latest": true,
       "flavour": "prod"
-    } 
+    },
     {
       "description": "A Module Pack for 10.48.5.0 Beta",
       "is_purchased": true,
