@@ -7,17 +7,6 @@
     {
       "description": "A Module Pack for 10.52.0.0 Beta",
       "is_purchased": true,
-      "name": "STModulePack_1.0.0.5_Premium_10.52.0.0_Beta.jar",
-      "pack_type": "Premium",
-      "sc_version": "10.52.0.0_Beta",
-      "mod_version": "1.0.0.5",
-      "development": false,
-      "latest": true,
-      "flavour": "prod"
-    },
-    {
-      "description": "The test pack for A11 and saving bugs. Use this if on Android 11",
-      "is_purchased": true,
       "name": "STModulePack_1.1.0.0_Premium_10.52.0.0_Beta.jar",
       "pack_type": "Premium",
       "sc_version": "10.52.0.0_Beta",
